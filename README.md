@@ -302,6 +302,10 @@ This project is licensed under the MIT License.
 
 ---
 
-## References
+## App Recording
 
-This project structure is inspired by [AndroidCleanArchitecture](https://github.com/SaurabhS-GWU/AndroidCleanArchitecture) and follows best practices for Android development with Clean Architecture and MVVM pattern.
+
+
+https://github.com/user-attachments/assets/6facfe6a-ec65-4fae-967e-da9a25dcadc9
+
+
